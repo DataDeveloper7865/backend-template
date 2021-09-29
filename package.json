@@ -1,0 +1,27 @@
+{
+  "name": "backend-template",
+  "version": "1.0.0",
+  "description": "backend template for express server using mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataDeveloper7865/backend-template.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "backend",
+    "rest",
+    "api"
+  ],
+  "author": "Stephen W",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DataDeveloper7865/backend-template/issues"
+  },
+  "homepage": "https://github.com/DataDeveloper7865/backend-template#readme"
+}
