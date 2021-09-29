@@ -35,7 +35,7 @@ app.get("/", (req, res) => {
     res.json({message: "Welcome to the backend server"});
 });
 
-require("./app/routes/tutorial.routes")(app);
+require("./app/routes/item.routes")(app);
 
 //set port and listen
 const PORT = process.env.PORT || 8080;
