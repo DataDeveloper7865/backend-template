@@ -6,6 +6,7 @@ See the Insomnia Request Collection to run and test the server
 
 <p> CREDIT TO: BezKoder - https://www.bezkoder.com/node-express-mongodb-crud-rest-api/#Update_an_object </p>
 
+<h2> ROUTES AVIALABLE </h2>
 <p> DELETE ALL ITEMS - DELETE - http://localhost:8080/api/items/ </p>
 <p> DELETE AN ITEM - DELETE - http://localhost:8080/api/items/{INSERT_ID_HERE} </p>
 <p> UPDATE AN ITEM - PUT - http://localhost:8080/api/items/{INSERT_ID_HERE} - With JSON Request Body </p>
@@ -27,4 +28,4 @@ See the Insomnia Request Collection to run and test the server
 <h3>2.  cd into backend-template/ </h3>
 <h3>3.  Run 'npm i' to download all dependencies </h3>
 <h3>4.  Run 'npm start' to run the server </h3>
-<h3>5.  Use insomnia request collection to ensure </h3>
+<h3>5.  Use insomnia request collection to ensure server funcionality </h3>
