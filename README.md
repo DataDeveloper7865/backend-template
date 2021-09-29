@@ -30,4 +30,4 @@ See the Insomnia Request Collection to run and test the server
 <h3>2.  cd into backend-template/ </h3>
 <h3>3.  Run 'npm i' to download all dependencies </h3>
 <h3>4.  Run 'npm start' to run the server </h3>
-<h3>5.  Use insomnia request collection to ensure server funcionality </h3>
+<h3>5.  Use insomnia request collection in this repo to ensure server funcionality by importing</h3>
